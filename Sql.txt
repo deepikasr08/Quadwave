@@ -1,0 +1,4 @@
+use Database:emp21
+
+select *from customers
+select *from customeraddresses
